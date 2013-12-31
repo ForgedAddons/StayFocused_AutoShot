@@ -1,0 +1,14 @@
+## Interface: 40200
+## Title: |cffa0a0f0Stay Focused!|r AutoShot
+## Notes: AutoShot timer plugin
+## Author: Drauer
+## Version: 40200.1
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: StayFocusedAutoShotDB
+## Dependencies: StayFocused
+
+tekKonfig\tekKonfig.xml
+
+StayFocused_AutoShot.lua
+Config.lua
